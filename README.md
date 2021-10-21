@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo! Eu sou Gabriel Yuri.
 - 🎓 Sou estudante de Ciências da Computação da UEPB e estou no segundo período.
 - 📚 Estou estudando Java e inglês fora da universidade.
-- 💡 Tenho interesse em trabalhar com inteligência articial ou como cientista de dados, mas estou aberto a experimentar várias áreas.
+- 💡 Tenho interesse em trabalhar com inteligência articial ou como cientista de dados, entretanto estou aberto a experimentar várias áreas.
 
 <div>
   <a href="https://github.com/GabrielYuriRF">
