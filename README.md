@@ -1,14 +1,16 @@
 ## Olá, seja bem vindo! Eu sou Gabriel Yuri.
+
 - 🎓 Sou estudante de Ciências da Computação da UEPB e estou no segundo período.
 - 📚 Estou estudando Java e POO fora da universidade.
 - 💡 Tenho interesse em trabalhar com inteligência articial ou como cientista de dados, entretanto estou aberto a experimentar várias áreas.
 
 <div>
+  <div align="left">
   <a href="https://github.com/GabrielYuriRF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielYuriRF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYuriRF&layout=compact&langs_count=7&theme=tokyonight"/>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielYuriRF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYuriRF&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Rafa-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"> 
