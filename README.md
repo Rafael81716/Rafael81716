@@ -4,11 +4,10 @@
 - 📚 Estou estudando Java e POO fora da universidade.
 - 💡 Tenho interesse em trabalhar com inteligência articial ou como cientista de dados, entretanto estou aberto a experimentar várias áreas.
 
-<div>
-  <div align="left">
-  <a href="https://github.com/GabrielYuriRF">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielYuriRF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYuriRF&layout=compact&langs_count=7&theme=dark"/>
+<div align="left">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielYuriRF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYuriRF&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
