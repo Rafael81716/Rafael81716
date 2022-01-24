@@ -1,8 +1,15 @@
-## Olá, seja bem vindo! Eu sou Gabriel Yuri.
+### Olá, seja bem vindo! Eu sou Gabriel Yuri.
 
-- 🎓 Sou estudante de Ciências da Computação da UEPB e estou no segundo período.
-- 📚 Estou estudando Java e POO fora da universidade.
-- 💡 Tenho interesse em trabalhar com inteligência articial ou como cientista de dados, entretanto estou aberto a experimentar várias áreas.
+## Um pouco sobre mim:
+- 🎓 Sou estudante de **Ciências da Computação** da UEPB e estou no segundo período.
+- :technologist: Sou aluno de **iniciação científica** no departamento **NUTES** da UEPB.
+- :blue_book: No momento estou estudando **Java** e **POO**.
+
+## Minhas habilidades e conhecimentos:
+- :snake: Conhecimento intermediário de **Python**.
+- 
+
+
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
