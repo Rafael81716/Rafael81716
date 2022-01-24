@@ -16,6 +16,7 @@
 ## Minhas Soft Skills:
 - :memo: Alta capacidade de **organização** e **planejamento**.
 - :pencil2: **Facilidade** em **aprender** coisas novas.
+- :busts_in_silhouette: Desenvoltura ao **trabalhar em equipe**.
 
 
 
