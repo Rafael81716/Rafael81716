@@ -5,13 +5,18 @@
 - :technologist: Sou aluno de **iniciação científica** no departamento **NUTES** da UEPB.
 - :blue_book: No momento estou estudando **Java** e **POO**.
 
-## Minhas habilidades e conhecimentos:
+## Meus conhecimentos:
 - :snake: Conhecimento intermediário de **Python**.
 - :copyright: Conhecimento intermediário de **C**.
 - :open_book: Conhecimentos das bibliotecas **Pandas** e **Pygame**.
 - :coffee: Conhecimentos básicos de **Java** e **POO**.
 - :game_die: Noções básicas de **SQLite**.
 - :speaking_head:Possuo nível de inglês **A2**.
+
+## Minhas Soft Skills:
+- :memo: Alta capacidade de **organização** e **planejamento**.
+- :pencil2: **Facilidade** em **aprender** coisas novas.
+
 
 
  ## Entre em contato comigo por:
