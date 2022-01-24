@@ -7,7 +7,12 @@
 
 ## Minhas habilidades e conhecimentos:
 - :snake: Conhecimento intermediário de **Python**.
-- 
+- :copyright: Conhecimento intermediário em **C**.
+- :coffee: Conhecimentos básicos em **Java** e **POO**.
+- :open_book: Conhecimentos das bibliotecas **Pandas** e **Pygame**.
+- :game_die: Noções básicas de **SQLite**.
+- :es: :brazil:
+
 
 
 
