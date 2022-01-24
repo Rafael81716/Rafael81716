@@ -1,4 +1,4 @@
-### Olá, seja bem vindo! Eu sou Gabriel Yuri.
+### Olá, seja bem vindo! Eu sou **Gabriel** **Yuri**.
 
 ## Um pouco sobre mim:
 - 🎓 Sou estudante de **Ciências da Computação** da UEPB e estou no segundo período.
