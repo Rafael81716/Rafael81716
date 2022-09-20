@@ -10,6 +10,7 @@
 - :snake: Conhecimento intermediário de **Python**.
 - :copyright: Conhecimento intermediário de **C**.
 - :coffee: Conhecimentos básicos de **JavaScript**.
+- :coffee: Conhecimentos intermediário de **Java**.
 - :game_die: Noções básicas de **MySQL**.
 - :speaking_head:Possuo nível de inglês **C1**.
 - 🐘: Conhecimentos básicos de **PHP**.
