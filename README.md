@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo! Eu sou **Rafael** **Cavalcante**.
 
 ## Um pouco sobre mim:
-- 🎓 Sou estudante de **Ciências da Computação** da UFCG e estou no segundo período.
+- 🎓 Sou estudante de **Ciências da Computação** da UFCG e estou no terceiro período.
 - :blue_book: No momento estou estudando **JavaScript**.
 - ✈️: Ex-Intercambista no Gira Mundo Reino Unido.
 - 🥈: Medalhista de prata na Olimpiada Nacional de Ciência 2020
