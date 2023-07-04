@@ -3,9 +3,9 @@
 ## Um pouco sobre mim:
 - 🎓 Sou estudante de **Ciências da Computação** da UFCG e estou no quinto período.
 - :blue_book: No momento estou estudando **JavaScript/angularJs**.
-- ✈️: Ex-Intercambista no Gira Mundo Reino Unido.
-- 🥈: Medalhista de prata na Olimpiada Nacional de Ciência 2020
-- 👨‍💼: Faço parte do SPLAB, participando do projeto ==Premier== em colaboração com a Dell 
+- ✈️: Ex-Intercambista no **Gira Mundo Reino Unido**.
+- 🥈: Medalhista de prata na **Olimpiada Nacional de Ciência 2020**
+- 👨‍💼: Faço parte do SPLAB, participando do projeto **Premier** em colaboração com a **Dell** 
 
 ## Meus conhecimentos:
 - :snake: Conhecimento intermediário de **Python**.
@@ -16,11 +16,11 @@
 - 🎲: Noções intermedriária de **Oracle SQL**
 - :speaking_head:Possuo nível de inglês **C1**.
 - 🐘: Conhecimentos básicos de **PHP**.
-- 🦉: Conhecimentos intermediários em Prolog
-- ☕: Conhecimentos Intermediários em Haskell
-- 🅰️: Conhecimentos Intermediários em Angular JS
-- 🅰️: Conhecimentos Simples de Angular
-- 🧪: Conhecimentos simples em Karma/Jasmine
+- 🦉: Conhecimentos intermediários em **Prolog**
+- ☕: Conhecimentos Intermediários em **Haskell**
+- 🅰️: Conhecimentos Intermediários em **Angular JS**
+- 🅰️: Conhecimentos Simples de **Angular**
+- 🧪: Conhecimentos simples em **Karma/Jasmine**
 
 ## Minhas Soft Skills:
 - :memo: Ótima capacidade de **organização** e **planejamento**.
