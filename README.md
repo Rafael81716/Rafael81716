@@ -1,46 +1,55 @@
-### Olá, seja bem vindo! Eu sou **Rafael** **Cavalcante**.
+## Olá, seja bem vindo! Eu sou **Rafael** **Cavalcante**.
 
-## Um pouco sobre mim:
-- 🎓 Sou estudante de **Ciências da Computação** da UFCG e estou no quinto período.
-- :blue_book: No momento estou estudando **JavaScript/angularJs**.
-- ✈️: Ex-Intercambista no **Gira Mundo Reino Unido**.
-- 🥈: Medalhista de prata na **Olimpiada Nacional de Ciência 2020**
-- 👨‍💼: Faço parte do SPLAB, participando do projeto **Premier** em colaboração com a **Dell** 
+## Sobre mim
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓  Sou estudante de **Ciências da Computação** da UFCG.
+- 💼 Trabalhando como **Desenvolvedor Front-End** no projeto **Premier** em colaboração com a **Dell**.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
-## Meus conhecimentos:
-- :snake: Conhecimento intermediário de **Python**.
-- :copyright: Conhecimento básico de **C**.
-- :coffee: Conhecimentos Intermediários de **JavaScript**.
-- :coffee: Conhecimentos intermediário de **Java**.
-- :game_die: Noções básicas de **MySQL**.
-- 🎲: Noções intermedriária de **Oracle SQL**
-- :speaking_head:Possuo nível de inglês **C1**.
-- 🐘: Conhecimentos básicos de **PHP**.
-- 🦉: Conhecimentos intermediários em **Prolog**
-- ☕: Conhecimentos Intermediários em **Haskell**
-- 🅰️: Conhecimentos Intermediários em **Angular JS**
-- 🅰️: Conhecimentos Simples de **Angular**
-- 🧪: Conhecimentos simples em **Karma/Jasmine**
+## Minhas Skills
 
-## Minhas Soft Skills:
-- :memo: Ótima capacidade de **organização** e **planejamento**.
-- :pencil2: **Facilidade** no **aprendizado** de novos conteúdos.
-- :busts_in_silhouette: Boa relação em **trabalhos em equipe**.
-- ⏰: pontualidade em **prazos** e **horários**
+**Aplicações e dados**
+
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-333333)
+![Angular](https://img.shields.io/badge/-Angular-333333)
+![AngularJS](https://img.shields.io/badge/-AngularJS-333333)
 
 
- ## Entre em contato comigo por:
-  
-<div> 
-  <a href="https://www.linkedin.com/in/rafael-cavalcante-9b49a6230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </a> 
-  <a href = "mailto:rafacavalcante081@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rafael.cavalcante29/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+**Utilidades**
 
-  
- 
-  
- 
-</div>
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
+**DevOps**
 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Openstack](https://img.shields.io/badge/-Openstack-333333?style=flat&logo=openstack)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/Rafael81716" title="Perfil Rafael Cavalcante">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael81716&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-cavalcante-9b49a6230/)](https://www.linkedin.com/in/rafael-cavalcante-9b49a6230/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafacavalcante081@gmail.com)](mailto:rafacavalcante081@gmail.com)
