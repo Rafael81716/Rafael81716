@@ -25,8 +25,12 @@
 
 **Utilidades**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![Pitest](https://img.shields.io/badge/-Pitest-333333)
+![Junit](https://img.shields.io/badge/-Junit-333333?style=flat&logo=junit)
+![Karma](https://img.shields.io/badge/-Karma-333333)
 
 **DevOps**
 
@@ -40,6 +44,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-333333)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
@@ -51,5 +56,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-cavalcante-9b49a6230/)](https://www.linkedin.com/in/rafael-cavalcante-9b49a6230/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafacavalcante081@gmail.com)](mailto:rafacavalcante081@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Rafael%20Cavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-cavalcante-9b49a6230/)](https://www.linkedin.com/in/rafael-cavalcante-9b49a6230/)
+[![Gmail Badge](https://img.shields.io/badge/-rafacavalcante081@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafacavalcante081@gmail.com)](mailto:rafacavalcante081@gmail.com)
